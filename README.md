@@ -11,22 +11,23 @@ I am a Data Science Practitioner, Healthcare fanatic, and Researcher
 
 ### Languages and Tools:
 
-[<img align = "left" alt = "Python" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align = "left" alt = "PostgreSQL" width = "26px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
-[<img align = "left" alt = "Amazon AWS" width = "26px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />]
-[<img align = "left" alt = "Git" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align = "left" alt = "PowerBI" width = "26px" src = "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />]
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://cdnlogo.com/logo/microsoft-excel_38655.html" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" width="36" height="36" alt="AWS" /></a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36" alt="POWER-BI" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" width="36" height="36" alt="Tableau" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+
+</p>
+
+### Socials
+
+<p align="left"> 
+<a href="https://www.linkedin.com/in/daniel-mogbojuri-a3351a118/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-<br />
-
-### Connect with me:
-
-[<img align = "left" alt = "LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icon@v7/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/daniel-mogbojuri-a3351a118/
 <!--
 **Daniel-Juri/Daniel-Juri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
