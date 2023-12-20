@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Daniel Mogbojuri
 
-I am a Data Science Practitioner, Healthcare fanatic, and Researcher
+I am a Data Analyst that currently work at The Kraft Heinz Company in Canada
 
-- I hold a bachelors degree in biology and diploma in biomedical engineering. I have a strong interest in the human body system and in strategies to improving one's health.
-- 🌱 I am currently learning Data Science/Analytics and Math . I strongly believe its versatility makes it applicable in almost every career.
+- I hold a bachelors degree in biology and diploma in biomedical engineering. I also have a strong interest in the human body system and in strategies to improving one's health.
+- 🌱 I decided to take the path of Data Science/Analytics after graduation as I strongly believe its versatility makes it applicable in almost every career including health/nutrition based fields.
 - :earth_americas: I am currently based in Toronto
 - Anyone can contact me at damjuri0@gmail.com
 - :speech_balloon: Fun Facts:  I am a harsh movie critique :triumph:
